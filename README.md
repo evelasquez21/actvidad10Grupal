@@ -3,6 +3,16 @@
 
 ![imagen](docs/image/Primer%20acercamiento.jpeg)
 
+Aquí creamos un hola UMG para probar la compilación y el funcionamiento básico  del proyecto.
+
+![imagen](docs/image/Creación%20del%20modelo%20producto.png)
+
+Aquí creamos el modelo del producto
+
+![imagen](docs/image/Creación%20de%20la%20vista%20del%20modelo%20producto.png)
+
+Aquí creamos la vista del modelo del producto
+
 # apartado de preguntas
 1.  ¿Qué carpetas crea Android Studio y para qué sirven?
     Respuesta: 
