@@ -1,3 +1,4 @@
 ## Pasos realizados
 # 1)Primer acercamiento a android
-![Uploading image.png…]()
+
+![imagen](docs/image/Primer%20acercamiento.jpeg)
