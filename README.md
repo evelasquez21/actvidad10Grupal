@@ -87,3 +87,11 @@ Aquí creamos la vista del modelo del producto
     ViewModel para Compose: Para poder instanciar y usar ViewModel dentro de tus funciones Composable.
 
     Observador de LiveData para Compose: Una librería de utilidad que te permite convertir un LiveData en un State<T> que Compose puede observar y reaccionar a sus cambios.
+
+    -   `androidx.lifecycle:lifecycle-viewmodel-ktx`
+    -   `androidx.lifecycle:lifecycle-livedata-ktx`
+    -   `androidx.lifecycle:lifecycle-runtime-ktx`
+    -   `androidx.lifecycle:lifecycle-viewmodel-compose`
+    -   `androidx.compose.runtime:runtime-livedata`
+    -   `androidx.activity:activity-compose`
+    -   Compose BOM + UI + Material3
