@@ -13,6 +13,12 @@ Aquí creamos el modelo del producto
 
 Aquí creamos la vista del modelo del producto
 
+# 2) Ejecución e implementaci´n de Activity y Composable con color Dinámico
+
+![imagen](docs/image/Activity%20y%20Composables.png)
+
+Aquí  desarrollamos la UI del producto y por medio de un botón sorteamos la lista de lo los productos creados.
+
 # apartado de preguntas
 1.  ¿Qué carpetas crea Android Studio y para qué sirven?
     Respuesta: 

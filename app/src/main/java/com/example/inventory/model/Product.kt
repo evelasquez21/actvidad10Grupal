@@ -1,4 +1,8 @@
+package com.example.inventory.model
+
 data class Product(
-    private String nombre;
-    private double precio;
+    public val nombre: String,
+    public val precio: Double
+
+
 )
